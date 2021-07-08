@@ -1,0 +1,143 @@
+
+#banner-image {
+	padding-top: 75px;
+	padding-bottom: 50px;
+	text-align: center;
+	color: #f8f8f8;
+	background: url("spark.png");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover; 
+}
+#banner_content {
+	position: relative;
+	padding-top: 6%;
+	padding-bottom: 6%;
+	margin: 12% auto;
+	background-color: rgba(0, 0, 0, 0.7);
+	max-width: 660px;
+}
+footer {
+	position: fixed;
+	padding: 10px 0;
+	text-align: center;
+	bottom: 0;
+	background-color: #101010;
+	color: #9d9d9d;
+	width: 100%;
+}
+.about{
+      height:475px;
+      background-color: #A0DAA9;
+      overflow: auto; 
+      margin-top:50px;
+      margin-bottom: 50px;  }
+  .abouthead{
+      margin-top: 10px;
+      padding-top:10px;
+      padding-left:50px;
+      text-align: center;
+      text-decoration-line: underline;
+      
+  }
+  .abtcontent{
+      padding-left:150px;
+      padding-right:140px;
+      font-size:28px;
+      font-weight: 500;   
+  }
+    .contactus{
+    height:399px;
+    
+    background-color:#939597 ;
+    border-radius: 100px 100px 0px 0px;
+    overflow-x: scroll;
+    
+}
+  .contacthed{
+      padding-left:630px;
+      padding-top:25px;
+  }
+.contactcontentl{
+    height:210px;
+}
+
+.mail{
+    padding-left:90px;
+    position: relative;
+    bottom:20px;
+    width:132px;
+    height:52px;
+}
+#mail{
+    font-size:27px;
+    font-weight: 500;
+    padding-left:160px;
+    position: relative;
+    bottom:70px;
+}
+.phone{
+    padding-left:70px;
+    position: relative;
+    bottom:55px;
+    width:152px;
+    height:52px;
+}
+#phone{
+    font-size:23px;
+    font-weight: 500;
+    position: relative;
+    bottom:95px;
+    padding-left: 155px;
+}
+.colorstrip{
+    width: 630px; 
+    height: 35px;
+    border-style: solid;
+    border-color: white;
+    background-color: white;
+    position: relative;
+    bottom:49px;
+}
+.line1{
+    border-left: 2px solid black;
+    
+    position: relative;
+    bottom:200px;
+    left:740px;
+    width:2px;
+  }
+#fb{
+    margin-top:1px;
+    margin-left:255px;
+    width:52px;
+    height:52px;
+    position: relative;
+    bottom:48px;
+}
+#insta{
+    width:52px;
+    height:52px;
+    position: relative;
+    bottom:149px;
+    left:380px;
+}
+#twi{
+    position: relative;
+    left:245px;
+    bottom:20px;
+}
+#link{
+    width:52px;
+    height:52px;
+    position: relative;
+    bottom:120px;
+    left:380px
+}
+.last{
+    width:700px;
+    height:100px;
+    font-size:27px;
+    font-weight: 500;
+    padding-left:250px;
+}
